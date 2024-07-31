@@ -2,7 +2,7 @@ let calculadora=document.querySelector("#root");
 
 calculadora.innerHTML=`
 
-<main class="Padre">
+<main class="padre">
     
         <div class="calculator">
             <div class="display">
